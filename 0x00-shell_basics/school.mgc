@@ -1,2 +1,2 @@
 #!/bin/bash
-o string SCHOOL School data !:mime School
+echo 'o string SCHOOL School'> filename and echo '!:mime school'>> filename
